@@ -1,0 +1,8 @@
+# <html></html>= menandai awal dan akhir dari sebuah dokumen
+# <head></head>=bagian kepala dokumen html yang berisi informasi" meta,judul halaman web dll
+# <title></title> mendefinisikan judul halaman web
+# <body></body>= untuk menampung semua elemen/informasi dari user yang di jalankan oleh user
+# <p></p> =untuk menampilkan sebuah paragraf
+# <br> =membuat baris baru
+# <h1></h1>-<h6></h6> =Menandai judul dengan tingkat kepentingan yang berbeda-beda.
+# <blockquote></blockquote> =
